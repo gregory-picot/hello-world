@@ -1,4 +1,3 @@
 # hello-world
 
-this is good !
-badass
+This one is mine
